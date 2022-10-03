@@ -551,6 +551,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Fahrenheit 451 | Ray Bradbury | [3.97](https://www.goodreads.com/book/show/17470674-fahrenheit-451) | 2006 |  
 | Little Brother | Cory Doctorow | [3.94](https://www.goodreads.com/book/show/954674.Little_Brother) | 2008 |
 | The Time Machine | H.G Wells | [3.89](https://www.goodreads.com/book/show/2493.The_Time_Machine?from_search=true&from_srp=true&qid=UOQqEw4cz3&rank=1) | 1895 |
+| Dune | Frank Herbert | [4.25](https://www.goodreads.com/book/show/44767458-dune) | 1965 |
 
 ### Horror
 | Name | Author | Goodreads Rating | Year Published |  
